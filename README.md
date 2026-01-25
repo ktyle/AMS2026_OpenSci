@@ -2,9 +2,6 @@
 
 <img src="thumbnails/thumbnail.png" alt="thumbnail" width="300"/>
 
-[![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
-
-
 This repository includes materials presented during the **Open Science Best Practices** presentation during the [2026 AMS Student Conference](https://annual.ametsoc.org/2026/program-events/conferences-and-symposia/25th-annual-student-conference/)
 
 ## Contents
