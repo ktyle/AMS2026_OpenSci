@@ -8,7 +8,7 @@ This repository includes materials presented during the **Open Science Best Prac
 
 1. [Link to slide deck presentation](https://docs.google.com/presentation/d/1GtGkTsKZXVvnFl-zNbmwVxQMBIGWvxlK/edit?usp=drive_link&ouid=100480712069334762220&rtpof=true&sd=true)
 
-1. An example of a reproducible, interactive research paper from a graduate-level atmospheric science class.
+1. [An example of a reproducible, interactive research paper from a graduate-level atmospheric science class.](https://www.atmos.albany.edu/facstaff/ktyle/AMS2026_OpenSci/)
 
 ## Authors
 
