@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+authors:
+  # add additional entries for each author -- see https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
+    - family-names: Belkin
+    given-names: Evan
+    affiliations: University at Albany, SUNY
+    orcid: 0009-0003-5740-1155
+
+  - family-names: Tyle
+    given-names: Kevin
+    orcid: https://orcid.org/0000-0001-5249-9665
+    website: https://github.com/ktyle
+    affiliation: University at Albany, SUNY
+title: "ATM509 Project"
+abstract: "Sample Class Project"

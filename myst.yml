@@ -1,0 +1,44 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+extends:
+  - https://raw.githubusercontent.com/projectpythia/pythia-config/main/pythia.yml
+project:
+  title: "Open Science Best Practices: AMS Student Conference 2026"
+  affiliations:
+    - id: ualbany_daes
+      institution: University at Albany, SUNY
+      ror: https://ror.org/012zs8222
+      isni: 0000 0001 2151 7947
+      department: Department of Atmospheric and Environmental Sciences
+      address: 1400 Washington Avenue
+      city: Albany
+      region: New York
+      country: United States of America
+      postal_code: 12222
+      phone: 518-442-4556
+
+  authors: 
+    - name: Kevin Tyle
+      email: ktyle@albany.edu
+      orcid: 0000-0001-5249-9665
+      affiliations: ualbany_daes
+  contributors:
+    - name: Evan Belkin
+      email: belkin@albany.edu
+      orcid: 0009-0003-5740-1155
+      affiliations: ualbany_daes
+  github: https://github.com/ktyle/AMS2026_OpenSci
+  copyright: '2026'
+  bibliography: 
+    - references.bib
+  toc:
+    - file: README.md
+    - title: Research Paper Example
+      children:
+        - file: 01-Paper.md
+        - file: notebooks/509_Plots.ipynb
+  exports:
+    - format: cff
+      date-released: '2026-01-20'
+site:
+  template: book-theme
